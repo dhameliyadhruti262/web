@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IPL Point table</title>
+</head>
+<body style="background-image: url(image/cricket.jpg); background-size: cover; background-repeat: no-repeat;">    
+    <font color="white" ><h1 align="center">IPL POINT TABLE</h1></font>
+    <font color="white">
+    <table border="1" align="center" cellpadding="15" cellspacing="4">
+    <thead>
+        <tr>
+            <th bgcolor=" #273746 ">POSITION</th>
+            <th bgcolor=" #273746 ">TEAM</th>
+            <th bgcolor=" #273746 ">MATCHES</th>
+            <th bgcolor=" #273746 ">WON</th>
+            <th bgcolor=" #273746 ">LOS</th>
+            <th bgcolor=" #273746 ">NRR</th>
+            <th bgcolor=" #273746 ">POINTS</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+         <td bgcolor=" #b03a2e">1</td>
+         <td bgcolor=" #b03a2e" >PBKS</td>
+         <td bgcolor=" #b03a2e" >14</td>
+         <td bgcolor=" #b03a2e" >9</td>
+         <td bgcolor=" #b03a2e" >4</td>
+         <td bgcolor=" #b03a2e" >+0.372</td>
+         <td bgcolor=" #b03a2e" >19</td>
+        </tr>
+
+        <tr>
+         <td bgcolor="#d35400">2</td>
+         <td bgcolor="#d35400">RCB</td>
+         <td bgcolor="#d35400">14</td>
+         <td bgcolor="#d35400">9</td>
+         <td bgcolor="#d35400">4</td>
+         <td bgcolor="#d35400">+0.301</td>
+         <td bgcolor="#d35400">19</td>
+        </tr>
+
+        <tr>
+         <td bgcolor="#2874a6">3</td>
+         <td bgcolor="#2874a6">GT</td>
+         <td bgcolor="#2874a6">14</td>
+         <td bgcolor="#2874a6">9</td>
+         <td bgcolor="#2874a6">5</td>
+         <td bgcolor="#2874a6">+0.254</td>
+         <td bgcolor="#2874a6">18</td>
+        </tr>
+
+        <tr>
+         <td bgcolor=" #6c3483">4</td>
+         <td bgcolor=" #6c3483">MI</td>
+         <td bgcolor=" #6c3483">14</td>
+         <td bgcolor=" #6c3483">8</td>
+         <td bgcolor=" #6c3483">6</td>
+         <td bgcolor=" #6c3483">+1.142</td>
+         <td bgcolor=" #6c3483">16</td>
+        </tr>
+
+        <tr>
+         <td bgcolor=" #1e8449 ">5</td>
+         <td bgcolor=" #1e8449 ">DC</td>
+         <td bgcolor=" #1e8449 ">14</td>
+         <td bgcolor=" #1e8449 ">7</td>
+         <td bgcolor=" #1e8449 ">6</td>
+         <td bgcolor=" #1e8449 ">+0.011</td>
+         <td bgcolor=" #1e8449 ">15</td>
+        </tr>
+
+        <tr>
+         <td bgcolor="red">6</td>
+         <td bgcolor="red">SRH</td>
+         <td bgcolor="red">14</td>
+         <td bgcolor="red">6</td>
+         <td bgcolor="red">7</td>
+         <td bgcolor="red">-0.241</td>
+         <td bgcolor="red">13</td>
+        </tr>
+
+        <tr>
+         <td bgcolor=" #e74c3c ">7</td>
+         <td bgcolor=" #e74c3c ">LSG</td>
+         <td bgcolor=" #e74c3c ">14</td>
+         <td bgcolor=" #e74c3c ">6</td>
+         <td bgcolor=" #e74c3c ">8</td>
+         <td bgcolor=" #e74c3c ">-0.376</td>
+         <td bgcolor=" #e74c3c ">12</td>
+        </tr>
+
+        <tr>
+         <td bgcolor="#9b59b6">8</td>
+         <td bgcolor="#9b59b6">KKR</td>
+         <td bgcolor="#9b59b6">14</td>
+         <td bgcolor="#9b59b6">5</td>
+         <td bgcolor="#9b59b6">7</td>
+         <td bgcolor="#9b59b6">-0.305</td>
+         <td bgcolor="#9b59b6">12</td>
+        </tr>
+        <tr>
+         <td bgcolor="blue">9</td>
+         <td bgcolor="blue">RR</td>
+         <td bgcolor="blue">14</td>
+         <td bgcolor="blue">4</td>
+         <td bgcolor="blue">10</td>
+         <td bgcolor="blue">-0.549</td>
+         <td bgcolor="blue">8</td>
+        </tr>
+
+        <tr>
+         <td bgcolor="#f1c40f">10</td>
+         <td bgcolor="#f1c40f">CSK</td>
+         <td bgcolor="#f1c40f">14</td>
+         <td bgcolor="#f1c40f">4</td>
+         <td bgcolor="#f1c40f">10</td>
+         <td bgcolor="#f1c40f">-0.647</td>
+         <td bgcolor="#f1c40f">8</td>
+        </tr>
+    </tbody>
+</table>
+</font>
+</body>
+    
+</html>
